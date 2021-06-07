@@ -29,7 +29,7 @@ architecture.  Suggested resources for these include:
 
 - C programming language
 	- [C tutorial](https://www.cprogramming.com/tutorial/c-tutorial.html)
-- Operating Systems:
+- Operating Systems
 	- [Modern Operating Systems (book)](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)
 	- [COMP3231 at UNSW](http://www.cse.unsw.edu.au/~cs3231)
 - Computer Architecture
