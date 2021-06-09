@@ -211,7 +211,7 @@ components:
     component_type: projects_libs
   - name: libplatsupportports
     display_name: libplatsupportports
-    description: "A collection of drivers proted from GPL-based sources such as U-Boot and Linux."
+    description: "A collection of drivers ported from GPL-based sources such as U-Boot and Linux."
     maintainer: "Data61"
     status: "active"
     component_type: projects_libs
